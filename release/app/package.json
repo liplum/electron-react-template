@@ -1,12 +1,12 @@
 {
-  "name": "electron-react-boilerplate",
-  "version": "4.6.0",
+  "name": "placeholder",
+  "version": "0.0.1",
   "description": "A foundation for scalable desktop apps",
   "license": "MIT",
   "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://github.com/electron-react-boilerplate"
+    "name": "Liplum",
+    "email": "Li_plum@outlook.com",
+    "url": "https://github.com/liplum"
   },
   "main": "./dist/main/main.js",
   "scripts": {
